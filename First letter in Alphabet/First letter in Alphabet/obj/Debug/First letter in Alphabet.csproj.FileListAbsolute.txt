@@ -1,0 +1,14 @@
+E:\C#\First letter in Alphabet\First letter in Alphabet\bin\Debug\First letter in Alphabet.exe.config
+E:\C#\First letter in Alphabet\First letter in Alphabet\bin\Debug\First letter in Alphabet.exe
+E:\C#\First letter in Alphabet\First letter in Alphabet\bin\Debug\First letter in Alphabet.pdb
+E:\C#\First letter in Alphabet\First letter in Alphabet\obj\Debug\First letter in Alphabet.csprojAssemblyReference.cache
+E:\C#\First letter in Alphabet\First letter in Alphabet\obj\Debug\First letter in Alphabet.csproj.CoreCompileInputs.cache
+E:\C#\First letter in Alphabet\First letter in Alphabet\obj\Debug\First letter in Alphabet.exe
+E:\C#\First letter in Alphabet\First letter in Alphabet\obj\Debug\First letter in Alphabet.pdb
+D:\C#\First letter in Alphabet\First letter in Alphabet\bin\Debug\First letter in Alphabet.exe.config
+D:\C#\First letter in Alphabet\First letter in Alphabet\bin\Debug\First letter in Alphabet.exe
+D:\C#\First letter in Alphabet\First letter in Alphabet\bin\Debug\First letter in Alphabet.pdb
+D:\C#\First letter in Alphabet\First letter in Alphabet\obj\Debug\First letter in Alphabet.csprojAssemblyReference.cache
+D:\C#\First letter in Alphabet\First letter in Alphabet\obj\Debug\First letter in Alphabet.csproj.CoreCompileInputs.cache
+D:\C#\First letter in Alphabet\First letter in Alphabet\obj\Debug\First letter in Alphabet.exe
+D:\C#\First letter in Alphabet\First letter in Alphabet\obj\Debug\First letter in Alphabet.pdb
